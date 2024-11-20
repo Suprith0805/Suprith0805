@@ -1,16 +1,22 @@
-## Hi there 👋
+# About Me  
 
-<!--
-**Suprith0805/Suprith0805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! I’m a data enthusiast passionate about uncovering insights through analysis and visualization.  
 
-Here are some ideas to get you started:
+### Skills  
+- **Programming:** Python, SQL  
+- **Visualization Tools:** Power BI, Excel Dashboards  
+- **Other Tools:** VBA, Automation Scripts  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects  
+- 🚀 **[Sales Analysis Dashboard](#)**: An interactive Power BI dashboard to visualize sales trends.  
+- 🛠️ **[Customer Segmentation Script](#)**: Python script for analyzing customer demographics.  
+
+### Learning Goals  
+- 🌱 Deepening my knowledge in SQL optimization and data storytelling techniques.  
+
+### Fun Fact  
+- ⚡ I’m an avid puzzle solver and love exploring creative ways to automate tasks.  
+
+### Let’s Connect  
+💬 I’m open to collaborations on data-driven projects.  
+
